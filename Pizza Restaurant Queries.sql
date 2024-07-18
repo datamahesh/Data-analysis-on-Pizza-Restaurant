@@ -1,5 +1,5 @@
 /*
-Pizza Case study project
+Pizza Restaurant Case study project
 */
 
 create database pizza_project
