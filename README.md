@@ -1,6 +1,6 @@
 # Data-analysis-on-Pizza-Restaurant
 
-Project Overview:
+## Project Overview:
 
 This SQL project centers on a database schema designed to manage and analyze data for a pizza store. The database comprises four primary tables: order_details, pizzas, orders, and pizza_types. Each table is essential in capturing different aspects of the business operations, from individual orders to the various types of pizzas offered.
 
@@ -15,5 +15,5 @@ A pizza store manager can leverage this SQL project to gain valuable insights an
 6. **Promotional Effectiveness:** Assess the impact of promotions and discounts on sales to refine marketing efforts and boost revenue.
 7. **Market Trends:** Stay ahead of market trends by analyzing competitive pricing, customer feedback, and emerging food trends.
 
-Conclusion:
+## Conclusion:
 By utilizing this SQL project, a pizza store manager can make data-driven decisions that enhance overall business performance and customer satisfaction.
